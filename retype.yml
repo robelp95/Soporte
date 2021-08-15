@@ -1,0 +1,12 @@
+input: .
+output: .retype
+url: kulko.app
+branding:
+  logo: Imagenes/Purple.png
+#  title: Inicio Rápido
+#  label: Docs
+links:
+
+
+footer:
+  copyright: "&copy; Copyright {{ year }}. All rights reserved."
